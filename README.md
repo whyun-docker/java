@@ -1,7 +1,8 @@
 # yunnysunny/jre 镜像
 
-基于官方 yunnysunny/ubuntu 镜像制作，添加  openjdk-11-jre 包。
+基于 yunnysunny/ubuntu 镜像制作，添加  openjdk-${tag}-jre-headless 包。
 
 ## tag
 
-11
+- 11
+- 17
