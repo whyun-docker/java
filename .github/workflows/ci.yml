@@ -10,7 +10,7 @@ on:
     branches:
       - 'master'
 env:
-  VERSION: 17
+  VERSION: 21
 
 jobs:
   docker:
